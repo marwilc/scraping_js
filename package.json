@@ -1,0 +1,22 @@
+{
+  "name": "scraping_js",
+  "version": "1.0.0",
+  "description": "simple web scraping",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "marwilc",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "cli-table": "^0.3.1",
+    "express": "^4.16.4",
+    "himalaya": "^1.1.0",
+    "html-to-json": "^0.6.0",
+    "html2json": "^1.0.2",
+    "jsdom": "^12.2.0",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.2"
+  }
+}
